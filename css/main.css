@@ -260,4 +260,14 @@ hr {
   padding-bottom: 50px;
   text-align: center; }
 
+/*----------------------------TOUCH----------------------------------*/
+#touch {
+  background: #2C3E50;
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center; }
+  #touch .col-md-10 {
+    margin-top: 40px; }
+
 /*# sourceMappingURL=main.css.map */
