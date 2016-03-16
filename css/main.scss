@@ -131,4 +131,39 @@ hr{
 	padding-top:50px;
 	padding-bottom:50px;
 	text-align:center;
+	.label-grey{
+		margin-top: 50px;
+	}
+	.label-default{
+		background:#443E44;
+	    border-radius: 0;
+    	padding: 1% 2%;
+    	font-size: 20px;
+    	font-weight: 300;
+
+	}
+}
+
+/*-----------------------------AWESOME---------------------------*/
+
+#awesome{
+	background:#27AD60;
+	color:white;
+	text-align:center;
+	padding-top:50px;
+	padding-bottom:50px;
+	
+	.icono-redes{
+		border: 0;
+	    color: #fff;
+	    border-radius: 20%;
+	    display: inline-block;
+	    width: 22px;
+	    height: 20px;
+	    line-height: 22px;
+	    text-align: center;
+	    background:#C1C1C1;
+		color: #27AD60;
+		margin-left: 14px;
+	}
 }
