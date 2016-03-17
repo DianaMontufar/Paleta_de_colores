@@ -260,6 +260,19 @@ hr {
   padding-bottom: 50px;
   text-align: center; }
 
+/*----------------------OUR--------------------*/
+#our {
+  background: #2C3E50;
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center; }
+
+#our .col-md-8 {
+  margin-top: 40px; }
+  #our .col-md-8 p:nth-child(2) {
+    color: #E67E22; }
+
 /*----------------------------TOUCH----------------------------------*/
 #touch {
   background: #2C3E50;
